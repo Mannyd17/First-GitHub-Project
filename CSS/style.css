@@ -1,0 +1,11 @@
+.box {
+
+        width: 200px;
+       height: 200px;
+       background-color:mediumaquamarine ;
+       border: 15px solid darkgrey;
+       padding: 15px ;
+       margin: 15px;
+       box-sizing: content-box;
+}
+
